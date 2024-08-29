@@ -1,0 +1,12 @@
+{"precision":0.536938235,"recall":0.0260246511,"f1_score":0.0323323197,"model":"random-ner","dataset":"dev_ner-disease"}
+{"precision":0.5072287877,"recall":0.0230111142,"f1_score":0.0306225011,"model":"random-ner","dataset":"test_ner-disease"}
+{"precision":0.45599022,"recall":1.0,"f1_score":0.45599022,"model":"nb-ner","dataset":"dev_ner-disease"}
+{"precision":0.45599022,"recall":1.0,"f1_score":0.45599022,"model":"nn-ner","dataset":"test_ner-disease"}
+{"precision":0.5048621772,"recall":0.045560614,"f1_score":0.0573520935,"model":"random-ner","dataset":"dev_ner-gene"}
+{"precision":0.5785608219,"recall":0.0607381584,"f1_score":0.0700333068,"model":"random-ner","dataset":"test_ner-gene"}
+{"precision":0.4013853445,"recall":1.0,"f1_score":0.4013853445,"model":"nb-ner","dataset":"dev_ner-gene"}
+{"precision":0.4013853445,"recall":1.0,"f1_score":0.4013853445,"model":"nn-ner","dataset":"test_ner-gene"}
+{"precision":0.3044431293,"recall":0.0863462963,"f1_score":0.0937283943,"model":"random-ner","dataset":"dev_ner-pol"}
+{"precision":0.3094400354,"recall":0.0923086024,"f1_score":0.098227955,"model":"random-ner","dataset":"test_ner-pol"}
+{"precision":0.2484131564,"recall":1.0,"f1_score":0.2484131564,"model":"nb-ner","dataset":"dev_ner-pol"}
+{"precision":0.2484131564,"recall":1.0,"f1_score":0.2484131564,"model":"nn-ner","dataset":"test_ner-pol"}

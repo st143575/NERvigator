@@ -1,0 +1,6 @@
+{"model":"nb-sci-ner","split":"dev","dataset":"ner-disease","precision":0.5322580645,"recall":0.3754740834,"f1_score":0.4403261675}
+{"model":"nb-sci-ner","split":"test","dataset":"ner-disease","precision":0.615,"recall":0.383975026,"f1_score":0.4727738629}
+{"model":"nb-sci-ner","split":"dev","dataset":"ner-gene","precision":0.6066019417,"recall":0.1845245127,"f1_score":0.2829710145}
+{"model":"nb-sci-ner","split":"test","dataset":"ner-gene","precision":0.6427855711,"recall":0.2039745628,"f1_score":0.3096789766}
+{"model":"nb-sci-ner","split":"dev","dataset":"ner-pol","precision":0.6816791771,"recall":0.4125862359,"f1_score":0.5140461216}
+{"model":"nb-sci-ner","split":"test","dataset":"ner-pol","precision":0.6513179847,"recall":0.3452423063,"f1_score":0.451277309}
